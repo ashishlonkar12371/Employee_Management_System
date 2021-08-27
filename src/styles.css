@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+@import '~bootstrap/dist/css/bootstrap.css';
+
+
+.bg-img
+{
+    background-image:url("assets/loginbg.jpg");
+    background-position: center;
+    background-repeat: repeat; 
+    /* background-repeat: no-repeat; */
+}
